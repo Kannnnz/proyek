@@ -15,5 +15,5 @@ pip install -r requirements.txt
 ## Streamlit Run
 ```
 
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 ```
